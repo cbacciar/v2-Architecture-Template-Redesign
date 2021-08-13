@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+far
+.env
+yarn-error.log
+.vscode / settings.json
+.serverless
+.localstack
+** / * / .terraform
+** / * / terraform.tfstate
+** / * / terraform.tfstate.backup
+test results
+.scannerwork /
+reports /
+terraform.tfstate
+terraform.tfstate.backup
+.terraform /
